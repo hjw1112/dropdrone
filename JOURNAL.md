@@ -6,6 +6,11 @@ created_at: "2025-07-04"
 ---
 
 
+### **total hours: 21h**
+
+
+
+
 # July 4th: Start!
 
 I did research about components and sourced some components from aliexpress. I will use dji O4 air unit, xing 2207 motor, SG90 servo, 5 inch frame, M100 GPS, and Speedybee F450 stack. It took a while because components are expensive and i was trying to reduce cost as much as possible.
@@ -35,7 +40,7 @@ I'm currently trying to reduce cost and it is so hard :(( Its 383$ now including
 I restarted 3d modeling AGAIN because i wanted the payload system be removable and modular since flight time can be extended if payload system is removable.
 I'm planning to use fpv battery strap to hold 3d printed payload system onto the frame.
 
-Currently, I made hole for wire and mount for servo motor. I'm planning to add strap hole on the left and right side and hinge system that will attached to servo.
+Currently, I made hole for wire and mount for servo motor. I'm planning to add strap hole on the left and right side.
 
 ### Current CAD
 
@@ -48,8 +53,26 @@ Currently, I made hole for wire and mount for servo motor. I'm planning to add s
 
 
 
-# July 7th: 
+# July 8th: Finished CAD!!
 
-a
+I finished CAD part. I added holes for strap and lock part. idk if it will work perfectly. So i'm going to fix it if it doesnt work when i get the servo
 
-**Total time spent: h**
+![alt text](image/7.8.png)
+
+
+**Total time spent: 2h**
+
+
+
+
+# July 10th: Finished!!
+
+Today. I worked on reducing cost again. I replaced some parts with cheaper alternative and applied sale coupon :) So it is under 150$ without air unit and battery
+
+Also, I wrote BOM csv for submission.
+
+
+![alt text](image/BOM.png)
+
+
+**Total time spent: 3h**
