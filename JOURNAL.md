@@ -55,7 +55,7 @@ Currently, I made hole for wire and mount for servo motor. I'm planning to add s
 
 # July 8th: Finished CAD!!
 
-I finished CAD part. I added holes for strap and lock part. idk if it will work perfectly. So i'm going to fix it if it doesnt work when i get the servo
+I finished CAD part. I added holes for strap and lock part. idk if it will work perfectly. So i'm going to fix it if it doesnt work when i get the servo. the hole will work as pivot and i will use metal strip to connect motor and the hole.
 
 ![alt text](image/7.8.png)
 
