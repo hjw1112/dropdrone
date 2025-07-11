@@ -60,6 +60,12 @@ I finished CAD part. I added holes for strap and lock part. idk if it will work 
 ![alt text](image/7.8.png)
 
 
+### some sketches that i draw during modeling
+
+![alt text](image/rough%20drawing1.jpeg)
+![alt text](image/rough%20drawing2.jpeg)
+
+
 **Total time spent: 2h**
 
 
