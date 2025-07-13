@@ -6,7 +6,7 @@ created_at: "2025-07-04"
 ---
 
 
-### **total hours: 21h**
+### **total hours: 35h**
 
 
 
@@ -82,3 +82,61 @@ Also, I wrote BOM csv for submission.
 
 
 **Total time spent: 3h**
+
+
+# July 11th: CHANGES!!!
+
+I found out that my project is a bit simple so i decided to design frame by myself. I was trying to do so when i was planning before i start and i 3d printed some test parts to see if it works. But it was too weak and bent so easily to be used for fpv frame. So i decided to use premade carbon fiber frame.
+
+However, I found about cf cnc and it wasn't that expensive like i thought so i decided to use it. 
+
+I started designing fpv frame. It was kinda confusing because idk how to shape the parts. So i tried tracing frame photo on internet but tracing wasn't perfect and it seems to be more complicated than designing from scratch. So i decided to make one from scratch but using photo as reference.
+
+I designed arm and + shaped support first. and this is the result. I was worried about thin points so i edited quite a lot and finally got right design :)
+
+I made some reference sketch like center line and holes so I can mirror sketches to make other side and make hole for screws on other parts easily.
+
+![alt text](image/cad%20designs/arm.jpg)
+
+
+
+Next, I designed bottom plates. I seperated them into 2 pieces as most fpv frame does. I traced the photo a bit but changed most of the parts to make the holes that i made on arm work.
+
+![alt text](image/cad%20designs/bottom%20plate%20and%20arm.png)
+
+
+
+**Total time spent: 8h**
+
+
+
+# July 12th: More CADD
+
+I printed the parts that i designed yesterday and it was very nice. the arm and + shaped support fits very well and holes are alligned nicely. But the pointy part of plate was making the frame too big so i reduced its size. 
+
+![alt text](image/cad%20designs/reduced%20size.png)
+
+
+
+Also, I made side plate for mounting camera(+holes on plate). It was quite confusing process because idk how to make it and also most of frames use cnc aluminium side plate with threaded hole. but i cannot use cnc so i used some knobs to hold it in place and used top plate and bottom plate to hold it. and i made tpu dampner/connector for camera too. 
+
+![alt text](image/cad%20designs/side%20plate.png)
+
+
+
+lastly, I designed top plate and addeddummy standoffs to see if it looks good. here's overall assembly view for now.
+
+![alt text](image/cad%20designs/assembly%20view%201.png)
+
+
+I'm quite happy how it turned out :))
+
+Now. i'm going to make some holed on the plates and test print the parts to see if it works well as i designed them. Then, i think i will design some replacable parts like landing gear, antenna holder, and gopro mount.
+
+**Total time spent: 6h**
+
+
+
+
+
+
