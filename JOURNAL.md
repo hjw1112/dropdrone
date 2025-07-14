@@ -5,6 +5,8 @@ description: "A custom built 5 inch fpv drone that can carry stuff"
 created_at: "2025-07-04"
 ---
 
+### onshape document
+https://cad.onshape.com/documents/2c66b1014f978a30ab8967e0/w/781099a0622bf4fd1c422891/e/69bb565c8f452c8e317ebf30
 
 ### **total hours: 40.5h**
 
