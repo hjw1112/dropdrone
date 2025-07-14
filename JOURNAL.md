@@ -147,6 +147,8 @@ I designed gopro mount, landing gear, and antenna+gps mount today. Also, I sourc
 
 ![alt text](image/cad%20designs/assembly%20view%202.png)
 ![alt text](image/cad%20designs/gopro%20mount.png)
+![alt text](image/cad%20designs/gps%20mount.png)
+![alt text](image/cad%20designs/antenna%20mount.png)
 
 
 **Total time spent: 5h**
