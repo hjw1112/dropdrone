@@ -11,6 +11,13 @@ you can reference this project + copy/modify. All source files are in this repo.
 ![alt text](image/7.8.png)
 
 
+### 3D model of frame
+
+![alt text](image/cad%20designs/assembly%20view%203.png)
+
+
+
+
 ### BOM
 
 | Component               | Price   | Source     | Link                                                                                                                                                                                                                                                                                                 |

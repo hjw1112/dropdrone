@@ -161,5 +161,10 @@ I designed gopro mount, landing gear, and antenna+gps mount today. Also, I sourc
 I edited BOM since i had some changes and I chose to use metal standoffs because i think it will be too weak and top plate could fall off from frame if i use 3d printed ones.
 
 
+### One last photo with everything together
+
+![alt text](image/cad%20designs/assembly%20view%203.png)
+
+
 **Total time spent: 0.5h**
 
