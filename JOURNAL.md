@@ -6,7 +6,7 @@ created_at: "2025-07-04"
 ---
 
 
-### **total hours: 40h**
+### **total hours: 40.5h**
 
 
 
@@ -71,7 +71,7 @@ I finished CAD part. I added holes for strap and lock part. idk if it will work 
 
 
 
-# July 10th: Finished!!
+# July 10th: Finished!! (not really)
 
 Today. I worked on reducing cost again. I replaced some parts with cheaper alternative and applied sale coupon :) So it is under 150$ without air unit and battery
 
@@ -139,7 +139,7 @@ Now. i'm going to make some holed on the plates and test print the parts to see 
 
 
 
-# July 13th: More CADD and finished!
+# July 13th: More CADD
 
 First, I chose to use 3d printed frame because it was quite firm with 100% infill. and I will also use 3d printed standoffs with heatset insert because there is no point of using metal standoff when whole frame is plastic.
 
@@ -152,3 +152,14 @@ I designed gopro mount, landing gear, and antenna+gps mount today. Also, I sourc
 
 
 **Total time spent: 5h**
+
+
+
+
+# July 13th: FINISHHHHH
+
+I edited BOM since i had some changes and I chose to use metal standoffs because i think it will be too weak and top plate could fall off from frame if i use 3d printed ones.
+
+
+**Total time spent: 0.5h**
+
