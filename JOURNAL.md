@@ -6,7 +6,7 @@ created_at: "2025-07-04"
 ---
 
 
-### **total hours: 35h**
+### **total hours: 40h**
 
 
 
@@ -139,4 +139,14 @@ Now. i'm going to make some holed on the plates and test print the parts to see 
 
 
 
+# July 13th: More CADD and finished!
 
+First, I chose to use 3d printed frame because it was quite firm with 100% infill. and I will also use 3d printed standoffs with heatset insert because there is no point of using metal standoff when whole frame is plastic.
+
+I designed gopro mount, landing gear, and antenna+gps mount today. Also, I sourced more materials like battery strap, non-slip pads for battery, mipi cable extension for cam mounting, heatset insert, and etc. It wasn't that hard process because it wasn't confusing and complex like frame design. I will edit some part after testing out when i get the components.
+
+![alt text](image/cad%20designs/assembly%20view%202.png)
+![alt text](image/cad%20designs/gopro%20mount.png)
+
+
+**Total time spent: 5h**
